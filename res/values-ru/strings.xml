@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LiveChecker</string>
+    <string name="action_settings">Настройки</string>
+    <string name="channel_name">Название канала</string>
+
+    <string-array name="streamservices">
+        <item>Twitch</item>
+        <item>Justin.TV</item>
+        <item>CaveTube</item>
+    </string-array>
+
+    <string name="okButton">ОК</string>
+    <string name="cancelButton">Отмена</string>
+    <string name="addchannel">Добавить канал</string>
+    <string name="deletemode">Режим удаления каналов</string>
+    <string name="title_activity_settings">Настройки</string>
+    <string name="showonlylive">Показывать только каналы онлайн</string>
+    <string-array name="updateinterval">
+        <item >1 минута</item>
+        <item >5 минут</item>
+        <item >10 минут</item>
+        <item >Полчаса</item>
+        <item >Час</item>
+    </string-array>
+    <string name="channelupdatelabel">Channel update interval:</string>
+    <string name="sortbyviewerslabel">Сортировать по зрителям</string>
+    <string name="SaveAndExit">Сохранить и вернуться</string>
+    <string name="refreshlabel">Обновить</string>
+    <string name="sortbychannelname">Сортировать по имени канала</string>
+
+</resources>

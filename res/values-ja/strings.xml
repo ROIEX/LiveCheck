@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LiveChecker</string>
+    <string name="action_settings">セッティング</string>
+    <string name="channel_name">配信チャンネルの名前</string>
+
+    <string-array name="streamservices">
+        <item>Twitch</item>
+        <item>Justin.TV</item>
+        <item>CaveTube</item>
+    </string-array>
+
+    <string name="okButton">OK</string>
+    <string name="cancelButton">キャンセル</string>
+    <string name="addchannel">配信チャンネルを足す</string>
+    <string name="deletemode">配信チャンネルを消す</string>
+    <string name="title_activity_settings">セッティングメ</string>
+    <string name="showonlylive">今オンライン配信</string>
+    <string-array name="updateinterval">
+        <item >１分</item>
+        <item >５分</item>
+        <item >１０分</item>
+        <item >３０分</item>
+        <item >１時間</item>
+    </string-array>
+    <string name="channelupdatelabel">チャンネルアップデート:</string>
+    <string name="sortbyviewerslabel">見てる人</string>
+    <string name="SaveAndExit">セーブ&amp;戻す</string>
+    <string name="refreshlabel">リフレッシュ</string>
+    <string name="sortbychannelname">配信名前の種類</string>
+
+</resources>
